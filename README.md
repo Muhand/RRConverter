@@ -12,7 +12,8 @@ A simple app that allows the conversion from real life measurements to ruler mea
 
 ## Prerequisites
 - git
-- xcode >=
+- xcode >= 9.4.1
+- project format 9.3-compatible
 - ios >= 10.0
 
 ## Installation
